@@ -26,7 +26,9 @@ Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
 7: Select **Mokeys Custom Filter**,\, 
 
-8:Click the **Refresh** Symbol.
+8: Click the **Refresh** Symbol.
+
+You should now see a notification that it has loaded. If you recieve an error, you will need to download the audio files from GitHub.
 
 <h2>Manual Install</h2>
 
