@@ -2605,13 +2605,13 @@ Hide # %H3
 Show # $type->generalcrafting $tier->eco
 ItemLevel >= 86
 BaseType "Crystal Belt"
-SetFontSize 45
-SetTextColor 0 0 0 255                   # TEXTCOLOR:	 High Special Base
-SetBorderColor 0 0 0 255                 # BORDERCOLOR:	 Neutral T1
-SetBackgroundColor 255 255 255 255       # BACKGROUND:	 T0 Drop
+SetFontSize 40
+SetTextColor 255 255 255 255             # TEXTCOLOR:	 High Special Base
+SetBorderColor 255 255 255 255           # BORDERCOLOR:	 Neutral T1
+SetBackgroundColor 255 255 255 0         # BACKGROUND:	 T0 Drop
 PlayAlertSound 6 300                     # DROPSOUND:	 T0 Drop
-PlayEffect Red
-MinimapIcon 0 Red Diamond
+PlayEffect White
+MinimapIcon 0 White Diamond
 
 #------------------------------------
 #   [1902] 86+ Endgame crafting rules
@@ -2621,10 +2621,10 @@ Show # %D5 %SENDER->CRAFTING->T1 $type->normalcraft->i86 $tier->t1
 ItemLevel >= 86
 Rarity < Rare
 BaseType "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Convoking Wand" "Crystal Belt" "Fingerless Silk Gloves" "Gripped Gloves" "Marble Amulet" "Opal Ring" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
-SetFontSize 45
-SetTextColor 255 255 255 255
+SetFontSize 35
+SetTextColor 255 190 0
 SetBorderColor 255 255 255 255
-SetBackgroundColor 255 125 0 255         # BACKGROUND:	Crafting-base-86
+SetBackgroundColor 0 0 0 0               # BACKGROUND:	Crafting-base-86
 PlayAlertSound 3 300                     # DROPSOUND:	 Unique
 PlayEffect Yellow
 MinimapIcon 1 Yellow Diamond
@@ -2633,30 +2633,29 @@ Show # %D4 %SENDER->CRAFTING->T2 $type->normalcraft->i86 $tier->t2
 ItemLevel >= 86
 Rarity < Rare
 BaseType "Diamond Ring" "Eternal Burgonet" "Hubris Circlet" "Lion Pelt" "Onyx Amulet" "Royal Burgonet" "Sacrificial Garb" "Sorcerer Boots" "Sorcerer Gloves" "Titanium Spirit Shield" "Two-Stone Ring"
-SetFontSize 40
-SetBorderColor 255 125 0 185
-SetBackgroundColor 0 0 0 185
+SetBorderColor 255 255 255 255
+SetBackgroundColor 0 0 0 0
 
-#Show # %D3 %SENDER->CRAFTING->T3 $type->normalcraft->i86 $tier->t3
-#	ItemLevel >= 86
-#	Rarity < Rare
-#	BaseType "Ambusher" "Archon Kite Shield" "Assassin's Garb" "Astral Plate" "Colossal Tower Shield" "Coronal Maul" "Deicide Mask" "Demon Dagger" "Exquisite Blade" "Fleshripper" "Fossilised Spirit Shield" "Gemini Claw" "Harbinger Bow" "Harmonic Spirit Shield" "Harpy Rapier" "Heavy Belt" "Imbued Wand" "Jewelled Foil" "Kris" "Opal Sceptre" "Opal Wand" "Pinnacle Tower Shield" "Profane Wand" "Sadist Garb" "Saintly Chainmail" "Sambar Sceptre" "Siege Axe" "Skean" "Slink Boots" "Slink Gloves" "Spine Bow" "Spiraled Foil" "Thicket Bow" "Titan Gauntlets" "Titan Greaves" "Vaal Axe" "Vaal Regalia" "Void Sceptre"
-#	SetFontSize 40
-#	SetBorderColor 255 125 0 185
-#	SetBackgroundColor 0 0 0 185
+# Show # %D3 %SENDER->CRAFTING->T3 $type->normalcraft->i86 $tier->t3
+# ItemLevel >= 86
+# Rarity < Rare
+# BaseType "Ambusher" "Archon Kite Shield" "Assassin's Garb" "Astral Plate" "Colossal Tower Shield" "Coronal Maul" "Deicide Mask" "Demon Dagger" "Exquisite Blade" "Fleshripper" "Fossilised Spirit Shield" "Gemini Claw" "Harbinger Bow" "Harmonic Spirit Shield" "Harpy Rapier" "Heavy Belt" "Imbued Wand" "Jewelled Foil" "Kris" "Opal Sceptre" "Opal Wand" "Pinnacle Tower Shield" "Profane Wand" "Sadist Garb" "Saintly Chainmail" "Sambar Sceptre" "Siege Axe" "Skean" "Slink Boots" "Slink Gloves" "Spine Bow" "Spiraled Foil" "Thicket Bow" "Titan Gauntlets" "Titan Greaves" "Vaal Axe" "Vaal Regalia" "Void Sceptre"
+# SetFontSize 36
+# SetBorderColor 255 255 255 255
+# SetBackgroundColor 0 0 0 0
 
 #------------------------------------
 #   [1903] 84+ Endgame crafting rules
 #------------------------------------
 
-Show # %D4 %RECEIVER->CRAFTING->T1 $type->normalcraft->i84 $tier->t1
-ItemLevel <= 85
-ItemLevel >= 84
-Rarity < Rare
-BaseType "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Convoking Wand" "Crystal Belt" "Fingerless Silk Gloves" "Gripped Gloves" "Marble Amulet" "Opal Ring" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
-SetFontSize 45
-SetBorderColor 200 200 0 255
-SetBackgroundColor 0 0 0 255
+# Show # %D4 %RECEIVER->CRAFTING->T1 $type->normalcraft->i84 $tier->t1
+# ItemLevel <= 85
+# ItemLevel >= 85
+# Rarity < Rare
+# BaseType "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Convoking Wand" "Crystal Belt" "Fingerless Silk Gloves" "Gripped Gloves" "Marble Amulet" "Opal Ring" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
+# SetFontSize 45
+# SetBorderColor 200 200 0 255
+# SetBackgroundColor 0 0 0 255
 
 #Show # %D2 %RECEIVER->CRAFTING->T2 $type->normalcraft->i84 $tier->t2
 #	ItemLevel <= 85
@@ -3051,10 +3050,10 @@ Show # %RECEIVER->CRAFTING->T1 $type->rarecraft->i86 $tier->t1
 ItemLevel >= 86
 Rarity Rare
 BaseType "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Convoking Wand" "Crystal Belt" "Fingerless Silk Gloves" "Gripped Gloves" "Marble Amulet" "Opal Ring" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
-SetFontSize 45
+SetFontSize 34
 SetTextColor 255 255 255 255
 SetBorderColor 255 255 255 255
-SetBackgroundColor 255 125 0 255         # BACKGROUND:	Crafting-base-86
+SetBackgroundColor 255 125 0 0           # BACKGROUND:	Crafting-base-86
 PlayAlertSound 3 300                     # DROPSOUND:	 Unique
 PlayEffect Yellow
 MinimapIcon 1 Yellow Diamond
@@ -3064,22 +3063,22 @@ ItemLevel <= 85
 ItemLevel >= 84
 Rarity Rare
 BaseType "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Convoking Wand" "Crystal Belt" "Fingerless Silk Gloves" "Gripped Gloves" "Marble Amulet" "Opal Ring" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
-SetFontSize 45
-SetTextColor 0 0 0 255
-SetBorderColor 0 0 0 255
-SetBackgroundColor 255 125 0 255         # BACKGROUND:	Crafting-base-86
+SetFontSize 34
+SetTextColor 255 255 255 255
+SetBorderColor 255 255 255 255
+SetBackgroundColor 255 125 0 0           # BACKGROUND:	Crafting-base-86
 PlayEffect White
 MinimapIcon 2 White Diamond
 
-Show # %D5 %RECEIVER->CRAFTING->T1 $type->rarecraft->rest $tier->t1
-ItemLevel <= 83
-ItemLevel >= 65
-Rarity Rare
-BaseType "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Convoking Wand" "Crystal Belt" "Fingerless Silk Gloves" "Gripped Gloves" "Marble Amulet" "Opal Ring" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
-SetFontSize 45
-SetTextColor 0 0 0 255
-SetBorderColor 0 240 190 240
-SetBackgroundColor 170 225 70 255        # BACKGROUND:	 Trinket T1
+# Show # %D5 %RECEIVER->CRAFTING->T1 $type->rarecraft->rest $tier->t1
+# ItemLevel <= 83
+# ItemLevel >= 65
+# Rarity Rare
+# BaseType "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Convoking Wand" "Crystal Belt" "Fingerless Silk Gloves" "Gripped Gloves" "Marble Amulet" "Opal Ring" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
+# SetFontSize 45
+# SetTextColor 0 0 0 255
+# SetBorderColor 0 240 190 240
+# SetBackgroundColor 170 225 70 255      # BACKGROUND:	 Trinket T1
 
 #===============================================================================================================
 # [[2700]] RARE ITEMS - LEVEL 86 Crafting
@@ -3089,10 +3088,10 @@ Show # %D4 %RECEIVER->CRAFTING->T2 $type->rarecraft->i86 $tier->t2
 ItemLevel >= 86
 Rarity Rare
 BaseType "Diamond Ring" "Eternal Burgonet" "Hubris Circlet" "Lion Pelt" "Onyx Amulet" "Royal Burgonet" "Sacrificial Garb" "Sorcerer Boots" "Sorcerer Gloves" "Titanium Spirit Shield" "Two-Stone Ring"
-SetFontSize 45
-SetTextColor 255 125 0 255
-SetBorderColor 255 125 0 255
-SetBackgroundColor 0 75 30 255           # BACKGROUND:	 Rare T1
+SetFontSize 30
+SetTextColor 255 255 255 255
+SetBorderColor 255 255 255 255
+SetBackgroundColor 0 75 30 0             # BACKGROUND:	 Rare T1
 
 #Show # %D3 %RECEIVER->CRAFTING->T3 $type->rarecraft->i86 $tier->t3
 #	ItemLevel >= 86
@@ -5345,8 +5344,8 @@ SetBorderColor 255 255 255 255           # BORDERCOLOR:	 T1 highlight
 SetBackgroundColor 65 20 80              # BACKGROUND:	 Currency T2
 DisableDropSound True
 PlayAlertSound 1 300                     # DROPSOUND:	 T1 Dropsound
-PlayEffect Red
-MinimapIcon 0 Red Raindrop
+PlayEffect Grey
+MinimapIcon 0 Grey Raindrop
 
 Show # $tier->t3 $type->currency->deliriumorbs
 Class Currency
@@ -5357,8 +5356,8 @@ SetBorderColor 255 255 255 255           # BORDERCOLOR:	 Neutral T1
 SetBackgroundColor 65 20 80              # BACKGROUND:	 Currency T2
 DisableDropSound True
 PlayAlertSound 2 300                     # DROPSOUND:	 Currency Sound
-PlayEffect Yellow
-MinimapIcon 1 Yellow Raindrop
+PlayEffect Grey
+MinimapIcon 1 Grey Raindrop
 
 #------------------------------------
 #   [4105] Delve Currency - Fossil
