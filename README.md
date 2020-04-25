@@ -2,6 +2,8 @@
 Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
 ![](images/filterOverview.PNG)
+*image taken via FilterBlades Website*
+
 <h1>How to Install:</h1>
 
 <h2>Auto Sync / Follow  (*preferred Method*) </h2>
