@@ -12,6 +12,22 @@ Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
 * Click Follow in the Top Right hand Corner
 
+1: Go to game
+
+2: Press (*default*) "**ESC**" to get to your game menu.
+
+3: Click "**Options**".
+
+4: Select the "**UI**" Tab.
+
+5: Scroll down to **List of Item Filters**. 
+
+6: Select the dropdown menu.
+
+7: Select **Mokeys Custom Filter**,\, 
+
+8:Click the **Refresh** Symbol.
+
 <h2>Manual Install</h2>
 
 * Go to the [github's .filter code](https://github.com/MokeyII/PoE-Mokeys-Custom-Filter/blob/master/MokeysCustomFilter.filter) **OR** get the most updated code @ https://www.pathofexile.com/item-filter/E4X9Ksj
