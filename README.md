@@ -60,3 +60,7 @@ You should now see a notification that it has loaded. If you recieve an error, y
 
 Additional Information can be found @ https://pathofexile.gamepedia.com/Item_filter
 
+
+
+---
+All Images and File Setups are set up with filterblade https://www.filterblade.xyz/ I do not an will not take credit for any of the work Filterblade has done. This File is to simply Share my Filter with other people and to show updates to my filters easily.
