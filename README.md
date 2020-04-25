@@ -10,7 +10,7 @@ Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
 * Navigate to https://www.pathofexile.com/item-filter/E4X9Ksj
 
-* Log in with you Path of Exile Account. (*If you are a steam user, you will have to create an account and link your steam account to your Path of Exile Account*)
+* Log in with your Path of Exile Account. (*If you are a steam user, you will have to create an account and link your steam account to your Path of Exile Account*)
 
 * Click Follow in the Top Right hand Corner
 
