@@ -12,7 +12,7 @@ Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
 * Paste the code into Notepad
 
-* Save the file to your Path of Exile Saved Folder, typicall this resides in "C:\Users\%USERNAME%\Documents\Path of Exile\
+* Save the file to your Path of Exile Saved Folder, typicall this resides in "C:\Users\ %USERNAME%\Documents\Path of Exile\
 
 
   
