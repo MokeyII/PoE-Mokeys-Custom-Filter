@@ -40,5 +40,23 @@ You should now see a notification that it has loaded. If you recieve an error, y
 
 * Save the file to your Path of Exile Saved Folder, typicall this resides in "C:\Users\ %USERNAME% \Documents\My Games\Path of Exile\
 
+1: Go to game
+
+2: Press (*default*) "**ESC**" to get to your game menu.
+
+3: Click "**Options**".
+
+4: Select the "**UI**" Tab.
+
+5: Scroll down to **List of Item Filters**. 
+
+6: Select the dropdown menu.
+
+7: Select **Mokeys Custom Filter**,\, 
+
+8: Click the **Refresh** Symbol.
+
+You should now see a notification that it has loaded. If you recieve an error, you will need to download the audio files from GitHub.
+
 Additional Information can be found @ https://pathofexile.gamepedia.com/Item_filter
 
