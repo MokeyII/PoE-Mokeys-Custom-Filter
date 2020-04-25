@@ -6,7 +6,7 @@ Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
 <h2>Manual Install</h2>
 
-* Go to the [gitgub's .filter code] (https://github.com/MokeyII/PoE-Mokeys-Custom-Filter/blob/master/MokeysCustomFilter.filter)
+* Go to the [github's .filter code](https://github.com/MokeyII/PoE-Mokeys-Custom-Filter/blob/master/MokeysCustomFilter.filter)
 
 * Copy _ALL_ of the code
 
