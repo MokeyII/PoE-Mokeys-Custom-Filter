@@ -40,7 +40,7 @@ You should now see a notification that it has loaded. If you recieve an error, y
 
 * Paste the code into Notepad
 
-* Save the file to your Path of Exile Saved Folder, typicall this resides in "C:\Users\ %USERNAME% \Documents\My Games\Path of Exile\
+* Save the file to your Path of Exile Saved Folder, typically this resides in "C:\Users\ %USERNAME% \Documents\My Games\Path of Exile\
 
 1: Go to game
 
