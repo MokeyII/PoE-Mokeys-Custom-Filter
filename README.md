@@ -1,5 +1,5 @@
 # PoE-Mokeys-Custom-Filter
-Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
+Mokey's Custom Path of Exile Loot Filter, Created through [Filter Blade](https://www.filterblade.xyz/).
 
 ![](images/filterOverview.PNG)
 *image taken via FilterBlades Website*
@@ -26,7 +26,7 @@ Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
 6: Select the dropdown menu.
 
-7: Select **Mokeys Custom Filter**,\, 
+7: Select **Mokeys Custom Filter**,
 
 8: Click the **Refresh** Symbol.
 
