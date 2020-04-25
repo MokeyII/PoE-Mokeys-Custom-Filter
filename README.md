@@ -1,7 +1,7 @@
 # PoE-Mokeys-Custom-Filter
 Mokey's Custom Path of Exile Loot Filter, Created through Filter Blade.
 
-
+![](images/filterOverview.PNG)
 <h1>How to Install:</h1>
 
 <h2>Auto Sync / Follow  (*preferred Method*) </h2>
