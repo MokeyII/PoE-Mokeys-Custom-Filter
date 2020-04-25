@@ -2550,7 +2550,7 @@ Show # $x->delirium->jewel
 	Rarity <= Rare
 	BaseType "Large Cluster Jewel" "Medium Cluster Jewel" "Small Cluster Jewel"
 	SetFontSize 45
-	SetTextColor 150 0 255 255              # TEXTCOLOR:	 Delirium Jewel Text
+	SetTextColor 30 200 200 255             # TEXTCOLOR:	 Delirium Jewel Text
 	SetBorderColor 220 0 0 240              # BORDERCOLOR:	 Aspect High Potential
 	SetBackgroundColor 34 0 67 255          # BACKGROUND:	 Delirium Jewel Background
 	PlayAlertSound 2 300                    # DROPSOUND:	 Currency Sound
@@ -2561,8 +2561,8 @@ Show # $x->delirium->jewel
 	Rarity <= Rare
 	BaseType "Large Cluster Jewel" "Medium Cluster Jewel" "Small Cluster Jewel"
 	SetFontSize 45
-	SetTextColor 150 0 255 255              # TEXTCOLOR:	 Delirium Jewel Text
-	SetBorderColor 150 0 255 255            # BORDERCOLOR:	 Delirium Jewel Color
+	SetTextColor 30 200 200 255             # TEXTCOLOR:	 Delirium Jewel Text
+	SetBorderColor 255 0 0 255              # BORDERCOLOR:	 Delirium Jewel Color
 	SetBackgroundColor 34 0 67 255          # BACKGROUND:	 Delirium Jewel Background
 	PlayAlertSound 2 300                    # DROPSOUND:	 Currency Sound
 	PlayEffect Purple
@@ -4953,8 +4953,8 @@ Show # $tier->t1 $type->fragments
 Class "Map Fragments"
 BaseType "Chayula's Enriched Breachstone" "Chayula's Pure Breachstone" "Esh's Pure Breachstone" "Simulacrum" "Timeless Maraketh Emblem" "Tul's Pure Breachstone" "Uul-Netol's Pure Breachstone" "Xoph's Pure Breachstone"
 SetFontSize 45
-SetTextColor 159 15 213 255
-SetBorderColor 159 15 213 255
+SetTextColor 0 128 0 255
+SetBorderColor 0 128 0 255
 SetBackgroundColor 255 255 255 255       # BACKGROUND:	 T0 Drop
 PlayAlertSound 6 300                     # DROPSOUND:	 T0 Drop
 PlayEffect Red
@@ -5340,25 +5340,25 @@ Show # $tier->t2 $type->currency->deliriumorbs
 Class Currency
 BaseType "Cartographer's Delirium Orb" "Diviner's Delirium Orb" "Fine Delirium Orb" "Obscured Delirium Orb" "Skittering Delirium Orb" "Thaumaturge's Delirium Orb"
 SetFontSize 45
-SetTextColor 255 255 255 255             # TEXTCOLOR:	 Cosmetic White
+SetTextColor 255 235 235 255             # TEXTCOLOR:	 Cosmetic White
 SetBorderColor 255 255 255 255           # BORDERCOLOR:	 T1 highlight
-SetBackgroundColor 240 90 35 255         # BACKGROUND:	 Currency T2
+SetBackgroundColor 65 20 80              # BACKGROUND:	 Currency T2
 DisableDropSound True
 PlayAlertSound 1 300                     # DROPSOUND:	 T1 Dropsound
 PlayEffect Red
-MinimapIcon 0 Red Circle
+MinimapIcon 0 Red Raindrop
 
 Show # $tier->t3 $type->currency->deliriumorbs
 Class Currency
 BaseType == "Abyssal Delirium Orb" "Amorphous Delirium Orb" "Armoursmith's Delirium Orb" "Blacksmith's Delirium Orb" "Blighted Delirium Orb" "Decadent Delirium Orb" "Delirium Orb" "Foreboding Delirium Orb" "Fossilised Delirium Orb" "Fragmented Delirium Orb" "Imperial Delirium Orb" "Jeweller's Delirium Orb" "Portentous Delirium Orb" "Primal Delirium Orb" "Singular Delirium Orb" "Timeless Delirium Orb" "Whispering Delirium Orb"
 SetFontSize 45
-SetTextColor 0 0 0 255                   # TEXTCOLOR:	 High Special Base
-SetBorderColor 0 0 0 255                 # BORDERCOLOR:	 Neutral T1
-SetBackgroundColor 240 90 35 255         # BACKGROUND:	 Currency T2
+SetTextColor 255 235 235 255             # TEXTCOLOR:	 High Special Base
+SetBorderColor 255 255 255 255           # BORDERCOLOR:	 Neutral T1
+SetBackgroundColor 65 20 80              # BACKGROUND:	 Currency T2
 DisableDropSound True
 PlayAlertSound 2 300                     # DROPSOUND:	 Currency Sound
 PlayEffect Yellow
-MinimapIcon 1 Yellow Circle
+MinimapIcon 1 Yellow Raindrop
 
 #------------------------------------
 #   [4105] Delve Currency - Fossil
@@ -5604,48 +5604,48 @@ StackSize >= 100
 Class Currency
 BaseType "Simulacrum Splinter"
 SetFontSize 45
-SetTextColor 255 0 0 255                 # TEXTCOLOR:	 T0 Item
-SetBorderColor 255 0 0 255               # BORDERCOLOR:	 T0 Item
-SetBackgroundColor 255 255 255 255       # BACKGROUND:	 T0 Drop
+SetTextColor 255 235 235 255             # TEXTCOLOR:	 T0 Item
+SetBorderColor 210 20 210 255            # BORDERCOLOR:	 T0 Item
+SetBackgroundColor 65 20 80              # BACKGROUND:	 T0 Drop
 PlayAlertSound 6 300                     # DROPSOUND:	 T0 Drop
-PlayEffect Red
-MinimapIcon 0 Red Star
+PlayEffect Grey
+MinimapIcon 0 Grey Kite
 
 Show # $tier->t2 $type->currency->splinter->simulacrum
 StackSize >= 30
 Class Currency
 BaseType "Simulacrum Splinter"
 SetFontSize 45
-SetTextColor 255 255 255 255             # TEXTCOLOR:	 Cosmetic White
-SetBorderColor 255 255 255 255           # BORDERCOLOR:	 T1 highlight
-SetBackgroundColor 240 90 35 255         # BACKGROUND:	 Currency T2
+SetTextColor 255 235 235 255             # TEXTCOLOR:	 Cosmetic White
+SetBorderColor 210 20 210 255            # BORDERCOLOR:	 T1 highlight
+SetBackgroundColor 65 20 80              # BACKGROUND:	 Currency T2
 PlayAlertSound 1 300                     # DROPSOUND:	 T1 Dropsound
-PlayEffect Red
-MinimapIcon 0 Red Kite
+PlayEffect Grey
+MinimapIcon 0 Grey Kite
 
 Show # $tier->t3 $type->currency->splinter->simulacrum
 StackSize >= 12
 Class Currency
 BaseType "Simulacrum Splinter"
 SetFontSize 45
-SetTextColor 0 0 0 255                   # TEXTCOLOR:	 High Special Base
-SetBorderColor 0 0 0 255                 # BORDERCOLOR:	 Neutral T1
-SetBackgroundColor 240 90 35 255         # BACKGROUND:	 Currency T2
+SetTextColor 255 235 235 255             # TEXTCOLOR:	 High Special Base
+SetBorderColor 210 20 210 255            # BORDERCOLOR:	 Neutral T1
+SetBackgroundColor 65 20 80              # BACKGROUND:	 Currency T2
 PlayAlertSound 2 300                     # DROPSOUND:	 Currency Sound
-PlayEffect Yellow
-MinimapIcon 1 Yellow Kite
+PlayEffect Grey
+MinimapIcon 1 Grey Kite
 
 Show # $tier->t3 $type->currency->splinter->simulacrum
 StackSize >= 3
 Class Currency
 BaseType "Simulacrum Splinter"
 SetFontSize 45
-SetTextColor 0 0 0 255                   # TEXTCOLOR:	 High Special Base
-SetBorderColor 0 0 0 255                 # BORDERCOLOR:	 Neutral T1
-SetBackgroundColor 249 150 25 255        # BACKGROUND:	 Currency T3
+SetTextColor 255 235 235 255             # TEXTCOLOR:	 High Special Base
+SetBorderColor 210 20 210 255            # BORDERCOLOR:	 Neutral T1
+SetBackgroundColor 65 20 80              # BACKGROUND:	 Currency T3
 PlayAlertSound 2 300                     # DROPSOUND:	 Currency Sound
-PlayEffect White
-MinimapIcon 2 White Kite
+PlayEffect Grey
+MinimapIcon 2 Grey Kite
 
 Show # $tier->t4 $type->currency->splinter->simulacrum
 Class Currency
