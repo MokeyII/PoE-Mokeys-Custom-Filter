@@ -10,7 +10,7 @@ Mokey's Custom Path of Exile Loot Filter, Created through [Filter Blade](https:/
 
 * Download all of the custom sounds folder
 
-* Move all of the custom sounds from its' folder to your PoE Directory (C:\Users\%USER$\Documents\My Games\Path of Exile) DO NOT PLACE THE CUSTOMSOUNDS FOLDER IN THE ROOT, ONLY PLACE THE SOUND FILES IN THE ROOT FOLDER.
+* Move all of the custom sounds from its' folder to your PoE Directory (C:\%USER$\Documents\My Games\Path of Exile) DO NOT PLACE THE CUSTOMSOUNDS FOLDER IN THE ROOT, ONLY PLACE THE SOUND FILES IN THE ROOT FOLDER.
 
 * Navigate to https://www.pathofexile.com/item-filter/E4X9Ksj
 
