@@ -8,31 +8,31 @@ Mokey's Custom Path of Exile Loot Filter, Created through [Filter Blade](https:/
 
 <h2>Auto Sync / Follow  (*preferred Method*) </h2>
 
-* Download all of the custom sounds folder
+1: Download all of the custom sounds folder
 
-* Move all of the custom sounds from its' folder to your PoE Directory (C:\%USER$\Documents\My Games\Path of Exile) DO NOT PLACE THE CUSTOMSOUNDS FOLDER IN THE ROOT, ONLY PLACE THE SOUND FILES IN THE ROOT FOLDER.
+2: Move all of the custom sounds from its' folder to your PoE Directory (C:\%USER%\Documents\My Games\Path of Exile) DO NOT PLACE THE CUSTOMSOUNDS FOLDER IN THE ROOT, ONLY PLACE THE SOUND FILES IN THE ROOT FOLDER.
 
-* Navigate to https://www.pathofexile.com/item-filter/E4X9Ksj
+3: Navigate to https://www.pathofexile.com/item-filter/E4X9Ksj
 
-* Log in with your Path of Exile Account. (*If you are a steam user, you will have to create an account and link your steam account to your Path of Exile Account*)
+4: Log in with your Path of Exile Account. (*If you are a steam user, you will have to create an account and link your steam account to your Path of Exile Account*)
 
-* Click Follow in the Top Right hand Corner
+5: Click Follow in the Top Right hand Corner
 
-1: Go to game
+6: Go to game
 
-2: Press (*default*) "**ESC**" to get to your game menu.
+7: Press (*default*) "**ESC**" to get to your game menu.
 
-3: Click "**Options**".
+8: Click "**Options**".
 
-4: Select the "**UI**" Tab.
+9: Select the "**UI**" Tab.
 
-5: Scroll down to **List of Item Filters**. 
+10: Scroll down to **List of Item Filters**. 
 
-6: Select the dropdown menu.
+11: Select the dropdown menu.
 
-7: Select **Mokeys Custom Filter**,
+12: Select **Mokeys Custom Filter**,
 
-8: Click the **Refresh** Symbol.
+13: Click the **Refresh** Symbol.
 
 You should now see a notification that it has loaded. If you recieve an error, you will need to download the audio files from GitHub.
 
