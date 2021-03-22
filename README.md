@@ -74,3 +74,17 @@ You should now see a notification that it has loaded. If you recieve an error, y
 
 ---
 All Images and File Setups are set up with filterblade https://www.filterblade.xyz/ I do not an will not take credit for any of the work Filterblade has done. This File is to simply Share my Filter with other people and to show updates to my filters easily.
+
+
+---
+<h1>To Do</h1>
+* Incubators
+* Clean up Splinter Colors
+* Leveling Flasks
+* Add Stygian Vise
+* Special Mods
+* Fix Various Crafting Recipes
+* Cluster Jewel Colors
+* Abyss Jewel Colors
+* Influenced Items Color Scheme
+
