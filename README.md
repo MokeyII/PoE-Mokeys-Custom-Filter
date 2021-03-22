@@ -5,7 +5,7 @@ This filter is a "strict" Filter. Removing a lot of endgame useless worthless dr
 Custom sounds are needed for filter to work.
 ATTN: Curse words are used in some of the drops sounds.
 
-If you would like to contact me for changes, you can reach me @ Discord: Mokey#8214
+If you would like to contact me for changes/Issues/Suggestions, you can reach me @ Discord: Mokey#8214
 
 Explaination:
 
