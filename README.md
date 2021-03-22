@@ -41,7 +41,7 @@ Explaination:
 
 <h2>Auto Sync / Follow  (*preferred Method*) </h2>
 
-1: Download all of the custom sounds folder
+1: Download all of the custom sounds folder from this git. (Click the Green Button at the top right of the page.)
 
 2: Move all of the custom sounds from its' folder to your PoE Directory (C:\%USER%\Documents\My Games\Path of Exile) DO NOT PLACE THE CUSTOMSOUNDS FOLDER IN THE ROOT, ONLY PLACE THE SOUND FILES IN THE ROOT FOLDER.
 
