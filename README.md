@@ -79,7 +79,7 @@ All Images and File Setups are set up with filterblade https://www.filterblade.x
 ---
 <h1>To Do</h1>
 * Incubators
-* Clean up Splinter Colors
+*  Clean up Splinter Colors
 * Leveling Flasks
 * Add Stygian Vise
 * Special Mods
