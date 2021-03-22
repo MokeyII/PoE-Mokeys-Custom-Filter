@@ -14,8 +14,8 @@ Explaination:
 | ------------- | ------------- |
 | White Background  | Tier 1  |
 | White Border  | Tier 2  |
-| No Border  | Tier 3  |
-| Circle | <= Tier 3   |
+| No Border  | <= Tier 3  |
+
 
 | Color | Type |
 | ------------- | ------------- |
