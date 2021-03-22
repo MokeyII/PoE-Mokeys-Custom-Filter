@@ -1,6 +1,9 @@
 # PoE-Mokeys-Custom-Filter
 Mokey's Custom Path of Exile Loot Filter, Created through [Filter Blade](https://www.filterblade.xyz/).
 
+Custom sounds are needed for filter to work.
+ATTN: Curse words are used in some of the drops sounds.
+
 Explaination:
 
 | Symbol | Tier |
