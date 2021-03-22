@@ -1,11 +1,8 @@
 # PoE-Mokeys-Custom-Filter
 Mokey's Custom Path of Exile Loot Filter, Created through [Filter Blade](https://www.filterblade.xyz/).
 This filter is a "**Strict**" Filter. Removing a lot of endgame useless worthless drops.
-!https://github.com/MokeyII/PoE-Mokeys-Custom-Filter/blob/master/Filter.PNG
 
-
-Custom sounds are needed for filter to work.
-**ATTN:** **Curse words are used in some of the drops sounds.**
+![Alt text](/Filter.PNG?raw=true "Title")
 
 If you would like to contact me for changes/Issues/Suggestions, you can reach me @ Discord: Mokey#8214
 
@@ -44,6 +41,9 @@ Explaination:
 <h1>How to Install:</h1>
 
 <h2>Auto Sync / Follow  (*preferred Method*) </h2>
+
+Custom sounds are needed for filter to work.
+**ATTN:** **Curse words are used in some of the drops sounds.**
 
 1: Download all of the custom sounds folder from this git. (Click the Green Button at the top right of the page.)
 
