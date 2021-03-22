@@ -79,12 +79,20 @@ All Images and File Setups are set up with filterblade https://www.filterblade.x
 ---
 <h1>To Do</h1>
 * Incubators
-*  Clean up Splinter Colors
+
+* Clean up Splinter ColorS
+
 * Leveling Flasks
+
 * Add Stygian Vise
+
 * Special Mods
+
 * Fix Various Crafting Recipes
+
 * Cluster Jewel Colors
+
 * Abyss Jewel Colors
+
 * Influenced Items Color Scheme
 
