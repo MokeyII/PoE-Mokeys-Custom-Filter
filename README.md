@@ -78,9 +78,10 @@ All Images and File Setups are set up with filterblade https://www.filterblade.x
 
 ---
 <h1>To Do</h1>
+
 * Incubators
 
-* Clean up Splinter ColorS
+* Clean up Splinter Colors
 
 * Leveling Flasks
 
