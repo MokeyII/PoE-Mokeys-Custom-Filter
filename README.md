@@ -3,7 +3,7 @@ Mokey's Custom Path of Exile Loot Filter, Created through [Filter Blade](https:/
 This filter is a "strict" Filter. Removing a lot of endgame useless worthless drops.
 
 Custom sounds are needed for filter to work.
-ATTN: Curse words are used in some of the drops sounds.
+**ATTN:** **Curse words are used in some of the drops sounds.**
 
 If you would like to contact me for changes/Issues/Suggestions, you can reach me @ Discord: Mokey#8214
 
