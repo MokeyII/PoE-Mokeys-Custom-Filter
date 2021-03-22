@@ -1,8 +1,37 @@
 # PoE-Mokeys-Custom-Filter
 Mokey's Custom Path of Exile Loot Filter, Created through [Filter Blade](https://www.filterblade.xyz/).
 
-![](images/filterOverview.PNG)
-*image taken via FilterBlades Website*
+Explaination:
+
+| Symbol | Tier |
+| ------------- | ------------- |
+| 5pt Star  | Tier 1  |
+| 4pt star  | Tier 2  |
+| Square  | Tier 3  |
+| Circle | Tier 4   |
+
+| Scheme | Tier |
+| ------------- | ------------- |
+| White Background  | Tier 1  |
+| White Border  | Tier 2  |
+| No Border  | Tier 3  |
+| Circle | <= Tier 3   |
+
+| Color | Type |
+| ------------- | ------------- |
+| Pink  | Currency  |
+| Blue  | Divination Cards  |
+| Green  | Map Fragments  |
+| Black BG /w Colored Circle | Map based on tier color   |
+| Gold/B  | Uniques  |
+| Cyan  | Skill Gems  |
+| Transparent BG  | Crafting Bases  |
+| Grey BG  | Socketed Base (5-6 Sockets)  |
+| Red  | Scarabs  |
+| Purple  | Prophecies  |
+| Grey/Purple  | Splinters  |
+| Gold  | Delve Crafting  |
+| Teal  | Blight Oils  |
 
 <h1>How to Install:</h1>
 
