@@ -95,9 +95,5 @@ All Images and File Setups are set up with filterblade https://www.filterblade.x
 
 * Fix Various Crafting Recipes
 
-* Cluster Jewel Colors
-
-* Abyss Jewel Colors
-
 * Influenced Items Color Scheme
 
