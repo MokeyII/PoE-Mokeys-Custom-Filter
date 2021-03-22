@@ -23,7 +23,7 @@ Explaination:
 | No Border  | <= Tier 3  |
 
 
-| Color | Type |
+| Theme | Type |
 | ------------- | ------------- |
 | Pink  | Currency  |
 | Blue  | Divination Cards  |
