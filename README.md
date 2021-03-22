@@ -37,6 +37,7 @@ Explaination:
 | Grey/Purple  | Splinters  |
 | Gold  | Delve Crafting  |
 | Teal  | Blight Oils  |
+| Orange  | Incubators  |
 
 <h1>How to Install:</h1>
 
@@ -83,8 +84,6 @@ All Images and File Setups are set up with filterblade https://www.filterblade.x
 
 ---
 <h1>To Do</h1>
-
-* Incubators
 
 * Clean up Splinter Colors
 
